@@ -1,8 +1,5 @@
-Here’s an updated **README.md** with the introductory section included, followed by the current status:
 
----
-
-# Fraud Detection System
+# Credit Card Fraud Detection System
 
 ## Project Overview
 
@@ -24,7 +21,7 @@ This project is a comprehensive **Fraud Detection System** aimed at monitoring a
 
 ### **Backend Features**
 - **Admin-Specific Features**:
-  - Transaction approvals.
+  - Transaction monitoring.
   - User role management.
 - **Authentication**:
   - Stateless JWT-based authentication.
