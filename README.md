@@ -42,7 +42,6 @@ This project is a comprehensive **Fraud Detection System** aimed at monitoring a
 | **Backend Repository**     | FastAPI-based backend for APIs and business logic                | [Backend Code](https://github.com/thoufeekx/fraud-detection-backend) |
 | **Database Repository**    | MySQL schema, init scripts, and Docker Compose configuration     | [Database Code](https://github.com/thoufeekx/fraud-detection-database) |
 
-You can replace the `#` placeholders with your respective repository links for the **Main Project Repository**. Let me know if you'd like further refinements! 😊
 
 ## Current Status
 
